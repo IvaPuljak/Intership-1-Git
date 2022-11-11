@@ -4,4 +4,4 @@ Ilario ima x pobjeda i y poraza!
 
 O . X
 . X .
-. . O
+X . O
